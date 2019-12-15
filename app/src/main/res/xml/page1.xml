@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p"
+    android:horizontalGap="5dp"
+    android:verticalGap="5dp"
+    android:keyHeight="80dp">
+
+    <Row>
+        <Key android:codes="1" android:keyLabel="Text" android:keyEdgeFlags="left"/>
+        <Key android:codes="2" android:keyLabel="Sound"/>
+        <Key android:codes="3" android:keyLabel="Camera"/>
+        <Key android:codes="4" android:keyLabel="Save"/>
+        <Key android:codes="5" android:keyLabel="⇨" android:keyEdgeFlags="right"/>
+    </Row>
+
+
+</Keyboard>

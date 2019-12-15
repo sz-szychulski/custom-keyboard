@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="20%p"
+    android:horizontalGap="5dp"
+    android:verticalGap="5dp"
+    android:keyHeight="80dp">
+
+    <Row>
+        <Key android:codes="6" android:keyLabel="⇦" android:keyEdgeFlags="left"/>
+        <Key android:codes="7" android:keyLabel="Float"/>
+        <Key android:codes="8" android:keyLabel="Check NFC"/>
+        <Key android:codes="9" android:keyLabel="NFC Panel"/>
+        <Key android:codes="10" android:keyLabel="⇨" android:keyEdgeFlags="right"/>
+    </Row>
+
+
+</Keyboard>
